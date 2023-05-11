@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Refresher/static/css/main.073c9b0a.css",
+    "main.js": "/Refresher/static/js/main.3c4d0dcc.js",
+    "index.html": "/Refresher/index.html",
+    "main.073c9b0a.css.map": "/Refresher/static/css/main.073c9b0a.css.map",
+    "main.3c4d0dcc.js.map": "/Refresher/static/js/main.3c4d0dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c4d0dcc.js"
+  ]
+}
